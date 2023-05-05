@@ -1,2 +1,0 @@
-# WordCount
-it is wonderful
